@@ -1,3 +1,4 @@
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Md-Sharif-Hosen/Vs_code_extension_for_mern.readme)
 # Vs_code_extension_for_mern
 ## MERN Extensions:
 
